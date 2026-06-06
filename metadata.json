@@ -1,0 +1,6 @@
+{
+  "name": "Deep Miner Adventure",
+  "description": "An offline 2D mining and digging adventure game. Dig for rare gems, upgrade equipment, and manage cargo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
